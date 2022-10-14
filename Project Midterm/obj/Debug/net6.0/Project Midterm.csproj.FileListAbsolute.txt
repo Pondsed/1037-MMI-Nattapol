@@ -1,0 +1,15 @@
+C:\Users\PangPond\Desktop\Project Midterm\bin\Debug\net6.0\Project Midterm.exe
+C:\Users\PangPond\Desktop\Project Midterm\bin\Debug\net6.0\Project Midterm.deps.json
+C:\Users\PangPond\Desktop\Project Midterm\bin\Debug\net6.0\Project Midterm.runtimeconfig.json
+C:\Users\PangPond\Desktop\Project Midterm\bin\Debug\net6.0\Project Midterm.dll
+C:\Users\PangPond\Desktop\Project Midterm\bin\Debug\net6.0\ref\Project Midterm.dll
+C:\Users\PangPond\Desktop\Project Midterm\bin\Debug\net6.0\Project Midterm.pdb
+C:\Users\PangPond\Desktop\Project Midterm\obj\Debug\net6.0\Project Midterm.csproj.AssemblyReference.cache
+C:\Users\PangPond\Desktop\Project Midterm\obj\Debug\net6.0\Project Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PangPond\Desktop\Project Midterm\obj\Debug\net6.0\Project Midterm.AssemblyInfoInputs.cache
+C:\Users\PangPond\Desktop\Project Midterm\obj\Debug\net6.0\Project Midterm.AssemblyInfo.cs
+C:\Users\PangPond\Desktop\Project Midterm\obj\Debug\net6.0\Project Midterm.csproj.CoreCompileInputs.cache
+C:\Users\PangPond\Desktop\Project Midterm\obj\Debug\net6.0\Project Midterm.dll
+C:\Users\PangPond\Desktop\Project Midterm\obj\Debug\net6.0\ref\Project Midterm.dll
+C:\Users\PangPond\Desktop\Project Midterm\obj\Debug\net6.0\Project Midterm.pdb
+C:\Users\PangPond\Desktop\Project Midterm\obj\Debug\net6.0\Project Midterm.genruntimeconfig.cache
